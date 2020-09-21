@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
-  <img src="https://forthebadge.com/images/badges/open-source.svg">
-  <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/open-source.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <a href="https://discord.gg/Mg5DQas" target="_blank"><img height="25px" src="https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"></a>
 </p>
 <div>
   <a href="">
