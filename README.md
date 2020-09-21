@@ -1,7 +1,6 @@
 <p align="center">
-  <img height="25px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
-  <img height="25px" src="https://forthebadge.com/images/badges/open-source.svg">
-  <img height="25px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <a href="https://www.wylarel.com/" target="_blank"><img height="25px" src="https://img.shields.io/badge/Website-Wylarel.com-F78E16?style=for-the-badge"></a>
+  <a href="https://twitter.com/Wylarel/" target="_blank"><img height="25px" src="https://img.shields.io/badge/(Inactive) Twitter-@Wylarel-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <a href="https://discord.gg/Mg5DQas" target="_blank"><img height="25px" src="https://img.shields.io/discord/417208696636964864.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"></a>
 </p>
 <div>
